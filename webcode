@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Little Puppy Noya</title>
+    <meta charset="utf-8">
+  </head>
+  
+  <body>
+    <h1>Little Puppy Noya</h1>
+    <p>This is my adorable and naughty boy-- Noya.</p>
+    <img src="https://github.com/xiye0445/imagepub/blob/main/ddd.jpg?raw=true" alt="Noya's smile">
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Fluffy hair</li>
+      <li>Cute brown eyes</li>
+      <li>Sweet-angle smile</li>
+      <li><strong>Scary barks!</strong></li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Need to play balls with him</li>
+      <li>Share apples with him--Noya loves apples!</li>
+      <li>First thing of every morning:Rub him</li>
+      <li>Remember to tell him you love him</li>
+    </ol>
+  </body>
+</html>
